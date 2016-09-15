@@ -1,3 +1,4 @@
 = Содержание
 
 . link:README.adoc[Введение]
+. link:LINKS.adoc[Ссылки]
