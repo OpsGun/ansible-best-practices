@@ -1,0 +1,12 @@
+{
+    "language": "ru",
+    "plugins": [
+        "-sharing",
+        "search-languages"
+    ],
+    "pluginsConfig": {
+        "search_languages": {
+            "lang": "ru"
+        }
+    }
+}

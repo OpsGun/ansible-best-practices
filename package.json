@@ -1,0 +1,19 @@
+{
+  "name": "gitbook-saltstack",
+  "version": "0.0.1",
+  "description": "SaltStack Notes",
+  "repository" : {
+    "type" : "git",
+    "url" : "https://github.com/bborysenko/gitbook-saltstack.git"
+  },
+  "scripts": {
+    "install": "gitbook install",
+    "serve": "gitbook serve",
+    "build": "gitbook build"
+  },
+  "private": true,
+  "dependencies": {
+    "gitbook-cli": "2.3.0",
+    "gitbook-plugin-search-languages" : "mallowlabs/gitbook-plugin-search-languages#79220fdff"
+  }
+}
